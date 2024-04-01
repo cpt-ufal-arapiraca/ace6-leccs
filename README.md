@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento dos Leccs
 
-Sistema de Gerenciamento dos Leccs voltado para as disciplinas de ACE6 e ACE7 do curso de Ciência da Computação UFAL Campus Ararpiraca
+Sistema de Gerenciamento dos Leccs voltado para as disciplinas de ACE6 e ACE7 do curso de Ciência da Computação UFAL Campus Arapiraca
 
 
 
@@ -78,7 +78,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Bruno Oliveira
+Salvian dos Santos Barbosa
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
 * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
