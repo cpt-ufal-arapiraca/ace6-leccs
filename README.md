@@ -1,6 +1,8 @@
 # Sistema de Gerenciamento dos Leccs
 
-Um parágrafo da descrição do projeto vai aqui
+Sistema de Gerenciamento dos Leccs voltado para as disciplinas de ACE6 e ACE7 do curso de Ciência da Computação UFAL Campus Ararpiraca
+
+
 
 ## 🚀 Começando
 
