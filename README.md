@@ -1,4 +1,4 @@
-# Título do projeto
+# Sistema de Gerenciamento dos Leccs
 
 Um parágrafo da descrição do projeto vai aqui
 
