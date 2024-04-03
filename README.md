@@ -15,7 +15,9 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 De que coisas você precisa para instalar o software e como instalá-lo?
 
 ```
-Dar exemplos
+Node.js
+React extension
+
 ```
 
 ### 🔧 Instalação
@@ -78,13 +80,8 @@ Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as vers�
 
 ## ✒️ Autores
 
-Bruno Oliveira
-Salvian dos Santos Barbosa
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+**Bruno Oliveira** - https://github.com/oliveiradev-ai
+**Salvian dos Santos Barbosa** - https://github.com/SalvianX
 
 ## 📄 Licença
 
